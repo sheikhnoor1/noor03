@@ -1,2 +1,5 @@
-sjxnsjxnjnx z nz nxmxkjsjnxjsnxmz xz
-.sxms m ,x xccdcbbdjcdkcmdcd
+git init
+git remote add origin
+git add .
+git commit -m "Any type"
+git push -u origin master
